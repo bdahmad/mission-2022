@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.top-section {
+    display: flex;
+}
+
+.half-div {
+    width: 50%;
+    padding: 70px;
+}
+
+#color-orange {
+    color: orange;
+}
+
+.half-div img {
+    height: 350px;
+    width: 300px;
+    float: right;
+
+
+}
+
+.pdding {
+    padding-top: 150px;
+}
+
+.half-div h1 {
+    border-left: 4px solid red;
+    padding-left: 5px;
+}
+
+.link-btn {
+    text-decoration: none;
+    background: rgb(158, 197, 15);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
